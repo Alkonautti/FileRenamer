@@ -1,0 +1,10 @@
+E:\Visual Studio Projects\FileRenamer\FileRenamer\bin\Debug\FileRenamer.exe.config
+E:\Visual Studio Projects\FileRenamer\FileRenamer\bin\Debug\FileRenamer.exe
+E:\Visual Studio Projects\FileRenamer\FileRenamer\bin\Debug\FileRenamer.pdb
+E:\Visual Studio Projects\FileRenamer\FileRenamer\obj\Debug\FileRenamer.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\FileRenamer\FileRenamer\obj\Debug\FileRenamer.Form1.resources
+E:\Visual Studio Projects\FileRenamer\FileRenamer\obj\Debug\FileRenamer.Properties.Resources.resources
+E:\Visual Studio Projects\FileRenamer\FileRenamer\obj\Debug\FileRenamer.csproj.GenerateResource.cache
+E:\Visual Studio Projects\FileRenamer\FileRenamer\obj\Debug\FileRenamer.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\FileRenamer\FileRenamer\obj\Debug\FileRenamer.exe
+E:\Visual Studio Projects\FileRenamer\FileRenamer\obj\Debug\FileRenamer.pdb
